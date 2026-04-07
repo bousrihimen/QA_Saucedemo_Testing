@@ -29,3 +29,14 @@ Voir le fichier BugReports.md
 
 8- Résultat 
 3 bugs identifiés et documentés
+
+** Screenshots
+
+1- Bug 1 - Images manquantes dans le panier
+![Bug panier](bug_cart.png)
+
+2- Bug 2 - Données invalides acceptées
+![Bug checkout](bug_checkout.png)
+
+3- Bug 3 - Checkout avec panier vide
+![Bug panier vide](bug_empty_cart.png)
